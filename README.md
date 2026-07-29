@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes A list of my favorite recipes
